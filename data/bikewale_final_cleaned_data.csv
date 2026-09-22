@@ -1,0 +1,445 @@
+bike_name,brand,bike_url,rating,rating_count,engine_cc,mileage_kmpl,power_bhp,weight_kg,ex_showroom_price,price_segment,power_to_weight,price_per_bhp
+Honda SP 125,Honda,/honda-bikes/sp-125/,4.6,4548.0,123.94,63.0,10.72,117.0,90636,Under 1 Lakh,0.09162393162393163,8454.850746268656
+Yamaha MT 15 V2,Yamaha,/yamaha-bikes/mt-15/,4.7,1866.0,155.0,47.0,18.1,141.0,166582,1–2 Lakh,0.12836879432624115,9203.42541436464
+Royal Enfield Hunter 350,Royal Enfield,/royalenfield-bikes/hunter-350/,4.7,1792.0,349.34,36.2,20.2,181.0,137640,1–2 Lakh,0.11160220994475138,6813.861386138614
+Royal Enfield Classic 350,Royal Enfield,/royalenfield-bikes/classic-350/,4.6,47.0,349.0,34.0,20.2,195.0,187434,1–2 Lakh,0.10358974358974359,9278.91089108911
+Bajaj Pulsar N160 2V,Bajaj,/bajaj-bikes/pulsar-n160/,4.6,1278.0,164.82,51.6,15.68,152.0,122990,1–2 Lakh,0.1031578947368421,7843.75
+Royal Enfield Bullet 350,Royal Enfield,/royalenfield-bikes/bullet/,4.7,1574.0,349.0,35.0,20.2,195.0,165656,1–2 Lakh,0.10358974358974359,8200.79207920792
+Royal Enfield Himalayan 440,Royal Enfield,/royalenfield-bikes/himalayan-440/,4.6,26.0,443.0,32.0,25.4,199.0,229000,2–5 Lakh,0.12763819095477386,9015.748031496063
+TVS Ronin,TVS,/tvs-bikes/ronin/,4.6,1157.0,225.9,42.0,20.1,160.0,130314,1–2 Lakh,0.12562500000000001,6483.283582089552
+Jawa All Stars 42 Bobber,Jawa,/jawa-bikes/all-stars-42-bobber/,4.3,6.0,334.0,30.0,29.51,185.0,210979,2–5 Lakh,0.15951351351351353,7149.406980684514
+TVS Raider 125,TVS,/tvs-bikes/raider-125/,4.4,2956.0,124.8,56.7,11.2,123.0,86397,Under 1 Lakh,0.09105691056910568,7714.017857142858
+TVS iQube,TVS,/tvs-bikes/iqube/,3.7,880.0,,,,129.7,119251,1–2 Lakh,,
+TVS Apache RTR 160,TVS,/tvs-bikes/apache-160/,4.5,3349.0,159.7,61.0,15.82,138.0,110781,1–2 Lakh,0.11463768115942029,7002.591656131479
+Yamaha XSR 155,Yamaha,/yamaha-bikes/xsr-155/,4.6,276.0,155.0,46.0,18.1,137.0,150957,1–2 Lakh,0.13211678832116788,8340.165745856353
+Hero Xtreme 125R,Hero,/hero-bikes/xtreme-125r/,4.6,1900.0,124.7,66.0,11.4,136.0,92841,Under 1 Lakh,0.08382352941176471,8143.9473684210525
+Jawa All Star 42,Jawa,/jawa-bikes/all-star-42/,3.8,3.0,294.72,32.0,26.94,184.0,186913,1–2 Lakh,0.14641304347826087,6938.121752041574
+Royal Enfield Continental GT 650,Royal Enfield,/royalenfield-bikes/continental-gt-650/,4.7,24.0,648.0,23.0,47.0,211.0,358427,2–5 Lakh,0.22274881516587677,7626.106382978724
+Ather Konarc,Ather,/ather-bikes/konarc/,4.8,37.0,,,,129.0,100099,1–2 Lakh,,
+Royal Enfield Meteor 350,Royal Enfield,/royalenfield-bikes/meteor-350/,4.7,249.0,349.34,32.0,20.2,191.0,199447,1–2 Lakh,0.10575916230366492,9873.613861386139
+Hero Splendor Plus,Hero,/hero-bikes/splendor-plus/,4.6,4855.0,97.2,63.0,7.91,112.0,77124,Under 1 Lakh,0.07062500000000001,9750.189633375474
+Royal Enfield Guerrilla 450,Royal Enfield,/royalenfield-bikes/guerrilla-450/,4.7,71.0,452.0,28.0,39.47,185.0,251063,2–5 Lakh,0.21335135135135133,6360.856346592349
+Royal Enfield Himalayan 450,Royal Enfield,/royalenfield-bikes/himalayan/,4.7,402.0,451.65,29.0,39.47,195.0,308029,2–5 Lakh,0.2024102564102564,7804.129718773753
+Bajaj Pulsar NS400Z,Bajaj,/bajaj-bikes/pulsar-ns400z/,4.5,43.0,349.13,32.0,40.04,176.0,186150,1–2 Lakh,0.2275,4649.100899100899
+TVS Jupiter 125,TVS,/tvs-bikes/jupiter-125/,4.1,933.0,124.8,50.0,8.04,108.0,87469,Under 1 Lakh,0.07444444444444444,10879.228855721394
+Yezdi Roadster,Yezdi,/yezdi-bikes/roadster/,4.5,211.0,334.0,30.0,28.7,184.0,201940,2–5 Lakh,0.1559782608695652,7036.23693379791
+Honda Shine,Honda,/honda-bikes/shine/,4.4,4063.0,123.94,55.0,10.63,113.0,83683,Under 1 Lakh,0.09407079646017699,7872.342427093132
+TVS Jupiter,TVS,/tvs-bikes/jupiter/,4.5,1164.0,113.3,53.84,7.91,106.0,77352,Under 1 Lakh,0.07462264150943396,9779.013906447535
+Honda Activa,Honda,/honda-bikes/activa-6g/,4.4,4275.0,109.51,47.0,7.88,105.0,78687,Under 1 Lakh,0.07504761904761904,9985.659898477157
+Jawa All Stars 42 FJ,Jawa,/jawa-bikes/all-stars-42-fj/,4.0,4.0,334.0,30.0,28.77,184.0,203529,2–5 Lakh,0.15635869565217392,7074.3482794577685
+TVS Ntorq 125,TVS,/tvs-bikes/ntorq-125/,4.4,2301.0,124.8,48.5,9.25,109.0,90558,Under 1 Lakh,0.08486238532110092,9790.054054054053
+Harley-Davidson X440,Harley-Davidson,/harleydavidson-bikes/x440/,4.8,795.0,440.0,35.0,27.0,190.5,235000,2–5 Lakh,0.14173228346456693,8703.703703703704
+Bajaj Pulsar NS200,Bajaj,/bajaj-bikes/pulsar-ns/,4.7,3345.0,199.5,36.0,24.13,158.0,139279,1–2 Lakh,0.15272151898734176,5772.026523000414
+Yamaha Ray ZR 125,Yamaha,/yamaha-bikes/ray-zr-125/,4.0,10.0,125.0,49.0,8.04,99.0,81820,Under 1 Lakh,0.08121212121212121,10176.616915422886
+Honda CB350RS,Honda,/honda-bikes/cb350rs/,4.6,255.0,348.36,35.0,20.78,180.0,198333,1–2 Lakh,0.11544444444444445,9544.4177093359
+Suzuki Access 125,Suzuki,/suzuki-bikes/access-125/,4.6,1100.0,124.0,47.0,8.3,105.0,84729,Under 1 Lakh,0.07904761904761906,10208.313253012047
+Bajaj Pulsar N160 4V,Bajaj,/bajaj-bikes/pulsar-n160-4v/,4.5,35.0,164.5,51.6,18.24,151.0,134479,1–2 Lakh,0.12079470198675496,7372.752192982457
+KTM 250 Duke,KTM,/ktm-bikes/duke-250/,4.8,448.0,249.07,31.0,30.57,162.8,226277,2–5 Lakh,0.18777641277641277,7401.929996728819
+Yamaha R2,Yamaha,/yamaha-bikes/r2/,4.6,18.0,204.0,35.5,26.5,150.0,231496,2–5 Lakh,0.17666666666666667,8735.698113207547
+Bajaj Pulsar 125,Bajaj,/bajaj-bikes/pulsar-125/,3.4,17.0,124.4,50.0,11.8,,93507,Under 1 Lakh,,7924.322033898305
+TVS Apache RTR 160 4V,TVS,/tvs-bikes/apache-rtr-160-4v/,4.5,2334.0,159.7,41.4,17.31,146.0,116484,1–2 Lakh,0.11856164383561643,6729.289428076257
+Yamaha FZ S Hybrid,Yamaha,/yamaha-bikes/fz-s-hybrid/,4.7,185.0,149.0,60.0,12.2,136.0,141760,1–2 Lakh,0.08970588235294118,11619.672131147541
+Triumph Speed 400,Triumph,/triumph-bikes/speed-400/,4.1,60.0,349.0,28.0,36.49,179.0,234302,2–5 Lakh,0.20385474860335195,6420.992052617155
+Yamaha FZS FI V4,Yamaha,/yamaha-bikes/fzs-fi-v4/,4.6,506.0,149.0,50.0,12.2,137.0,120402,1–2 Lakh,0.08905109489051094,9869.016393442624
+Honda Rebel 300,Honda,/honda-bikes/rebel-300/,4.8,11.0,286.0,26.0,30.0,172.0,222000,2–5 Lakh,0.1744186046511628,7400.0
+Bajaj Chetak,Bajaj,/bajaj-bikes/chetak/,3.7,742.0,,,,,119056,1–2 Lakh,,
+Yamaha FZ X,Yamaha,/yamaha-bikes/fz-x/,4.0,663.0,149.0,47.0,12.2,139.0,126538,1–2 Lakh,0.08776978417266186,10371.967213114754
+Honda Unicorn,Honda,/honda-bikes/unicorn/,4.4,1822.0,162.71,50.0,13.0,139.0,115241,1–2 Lakh,0.09352517985611511,8864.692307692309
+Honda Activa 125,Honda,/honda-bikes/activa-125/,4.5,2135.0,123.92,47.0,8.3,106.0,92806,Under 1 Lakh,0.07830188679245284,11181.445783132529
+Hero Splendor Plus Xtec,Hero,/hero-bikes/splendor-plus-xtec/,4.6,914.0,97.2,73.0,7.9,113.6,81361,Under 1 Lakh,0.06954225352112677,10298.860759493671
+Hero Xpulse 200 4V,Hero,/hero-bikes/xpulse-200-4v/,4.5,657.0,199.6,32.9,18.9,161.0,145420,1–2 Lakh,0.11739130434782608,7694.179894179895
+Honda SP160,Honda,/honda-bikes/sp160/,4.5,383.0,162.71,50.0,13.27,140.0,117859,1–2 Lakh,0.09478571428571428,8881.612660135645
+Bajaj Pulsar NS125,Bajaj,/bajaj-bikes/pulsar-ns125/,4.5,979.0,124.45,46.9,11.8,144.0,94043,Under 1 Lakh,0.08194444444444444,7969.745762711864
+KTM 390 Duke,KTM,/ktm-bikes/390-duke/,4.6,27.0,349.32,28.0,40.9,168.3,283913,2–5 Lakh,0.2430184194890077,6941.6381418092915
+TVS Apache RTX,TVS,/tvs-bikes/apache-rtx/,4.7,165.0,299.0,32.5,35.5,180.0,199496,1–2 Lakh,0.19722222222222222,5619.605633802817
+Aprilia RS 457,Aprilia,/aprilia-bikes/rs-457/,4.8,31.0,457.0,24.0,46.9,175.0,433431,2–5 Lakh,0.268,9241.599147121535
+Yamaha Aerox 155,Yamaha,/yamaha-bikes/aerox-155/,4.5,362.0,155.0,40.0,14.75,126.0,146264,1–2 Lakh,0.11706349206349206,9916.203389830509
+BMW G310 RR,BMW,/bmw-bikes/g310-rr/,4.8,459.0,312.12,30.0,33.5,174.0,289994,2–5 Lakh,0.1925287356321839,8656.537313432837
+Honda CB 125 Hornet,Honda,/honda-bikes/cb-125-hornet/,4.7,271.0,123.94,55.0,10.99,124.0,115312,1–2 Lakh,0.08862903225806452,10492.447679708826
+KTM 200 Duke,KTM,/ktm-bikes/duke-200/,4.7,634.0,199.5,35.0,24.67,159.0,191570,1–2 Lakh,0.15515723270440251,7765.301986218078
+Honda CB350,Honda,/honda-bikes/cb350/,4.7,277.0,348.36,35.0,20.7,186.0,197034,1–2 Lakh,0.11129032258064515,9518.550724637682
+TVS Apache RR 310,TVS,/tvs-bikes/apache-rr-310/,4.7,208.0,312.2,34.7,37.54,174.0,262265,2–5 Lakh,0.2157471264367816,6986.281299946723
+Hero HF Deluxe,Hero,/hero-bikes/hf-deluxe/,4.5,3914.0,97.2,65.0,7.91,112.0,58688,Under 1 Lakh,0.07062500000000001,7419.469026548672
+Bajaj Dominar 400,Bajaj,/bajaj-bikes/dominar-400/,4.5,48.0,349.13,30.0,40.04,190.0,208330,2–5 Lakh,0.21073684210526317,5203.046953046954
+Yamaha FZ FI,Yamaha,/yamaha-bikes/fz-v3/,4.5,572.0,149.0,46.0,12.2,135.0,116358,1–2 Lakh,0.09037037037037036,9537.540983606557
+Bajaj Pulsar 150,Bajaj,/bajaj-bikes/pulsar-150/,3.8,9.0,149.5,47.0,14.0,,115300,1–2 Lakh,,8235.714285714286
+Bajaj Pulsar N250,Bajaj,/bajaj-bikes/pulsar-n250/,4.5,440.0,249.0,44.0,24.1,164.0,145487,1–2 Lakh,0.14695121951219514,6036.804979253112
+Yamaha Fascino 125,Yamaha,/yamaha-bikes/fascino-125/,4.2,10.0,125.0,49.0,8.04,99.0,81264,Under 1 Lakh,0.08121212121212121,10107.462686567165
+Royal Enfield Super Meteor 650,Royal Enfield,/royalenfield-bikes/super-meteor-650/,4.8,232.0,648.0,23.7,46.3,241.0,405988,2–5 Lakh,0.1921161825726141,8768.639308855292
+Honda Hness CB350,Honda,/honda-bikes/hness-cb350/,4.6,309.0,348.36,35.0,20.78,181.0,193536,1–2 Lakh,0.11480662983425415,9313.570741097208
+Honda Dio,Honda,/honda-bikes/dio/,4.6,2166.0,109.51,48.0,7.75,106.0,74820,Under 1 Lakh,0.07311320754716981,9654.193548387097
+Bajaj Pulsar NS160,Bajaj,/bajaj-bikes/pulsar-ns-160/,4.6,1694.0,160.3,52.2,17.03,152.0,126819,1–2 Lakh,0.11203947368421054,7446.799765120375
+VIDA VX2,VIDA,/vida-bikes/vx2/,4.3,287.0,,,,,109590,1–2 Lakh,,
+Ather Rizta,Ather,/ather-bikes/rizta/,4.4,395.0,,,,119.0,120705,1–2 Lakh,,
+Hero Glamour X 125,Hero,/hero-bikes/glamour-x-125/,4.6,354.0,124.7,65.0,11.4,127.0,89563,Under 1 Lakh,0.08976377952755905,7856.403508771929
+KTM 390 Adventure,KTM,/ktm-bikes/390-adventure/,4.3,22.0,349.32,28.0,40.93,181.0,287986,2–5 Lakh,0.22613259668508287,7036.06156853164
+Hero Xpulse 210,Hero,/hero-bikes/xpulse-210/,4.4,256.0,210.0,37.0,24.2,170.0,166777,1–2 Lakh,0.14235294117647057,6891.611570247934
+Royal Enfield Shotgun 650,Royal Enfield,/royalenfield-bikes/shotgun-650/,4.8,164.0,648.0,22.0,46.39,240.0,401002,2–5 Lakh,0.19329166666666667,8644.147445570166
+Kawasaki Z900,Kawasaki,/kawasaki-bikes/z900/,4.9,57.0,948.0,21.0,123.6,212.0,999000,5–10 Lakh,0.5830188679245283,8082.524271844661
+Honda Dio 125,Honda,/honda-bikes/dio-125/,4.6,223.0,123.92,47.0,8.19,104.0,94256,Under 1 Lakh,0.07875,11508.66910866911
+Hero Xtreme 250R,Hero,/hero-bikes/xtreme-250r/,4.7,237.0,249.03,36.0,29.5,167.7,172591,1–2 Lakh,0.1759093619558736,5850.542372881356
+Suzuki V-Strom SX,Suzuki,/suzuki-bikes/v-strom-sx/,4.6,225.0,249.0,36.0,26.1,167.0,203354,2–5 Lakh,0.15628742514970062,7791.340996168582
+TVS Apache RTR 310,TVS,/tvs-bikes/apache-rtr-310/,4.8,65.0,312.12,30.0,35.08,169.0,225283,2–5 Lakh,0.2075739644970414,6421.978335233752
+Yezdi Adventure,Yezdi,/yezdi-bikes/adventure/,4.4,98.0,334.0,30.0,29.16,187.0,208116,2–5 Lakh,0.15593582887700536,7137.037037037037
+KTM 160 Duke,KTM,/ktm-bikes/160-duke/,4.8,84.0,164.2,36.5,18.73,147.0,183585,1–2 Lakh,0.12741496598639457,9801.655098772024
+Honda Livo,Honda,/honda-bikes/livo/,4.4,1218.0,109.51,60.0,8.67,112.0,81031,Under 1 Lakh,0.07741071428571429,9346.136101499424
+Keeway V302C,Keeway,/keeway-bikes/v302c/,4.5,87.0,298.0,36.0,29.09,167.0,448960,2–5 Lakh,0.17419161676646708,15433.48229632176
+Royal Enfield Interceptor 650,Royal Enfield,/royalenfield-bikes/interceptor/,4.6,483.0,648.0,23.0,47.0,218.0,337909,2–5 Lakh,0.21559633027522937,7189.553191489362
+BMW F 450 GS,BMW,/bmw-bikes/f-450-gs/,4.3,21.0,420.0,26.0,48.67,178.0,495000,2–5 Lakh,0.27342696629213487,10170.536264639408
+Harley-Davidson X440 T,Harley-Davidson,/harleydavidson-bikes/x440-t/,4.8,46.0,440.0,30.0,27.37,192.0,286000,2–5 Lakh,0.14255208333333333,10449.397150164414
+TVS Ntorq 150,TVS,/tvs-bikes/ntorq-150/,4.6,140.0,149.7,40.0,13.0,115.0,112349,1–2 Lakh,0.11304347826086956,8642.23076923077
+Honda ADV 160,Honda,/honda-bikes/adv-160/,,,156.9,,16.9,,170000,1–2 Lakh,,10059.171597633136
+Triumph Scrambler 400 X,Triumph,/triumph-bikes/scrambler-400-x/,4.0,18.0,349.0,27.0,36.49,185.0,264467,2–5 Lakh,0.19724324324324324,7247.65689229926
+Bajaj Pulsar RS 200,Bajaj,/bajaj-bikes/rs-200/,4.7,2148.0,199.5,35.0,24.1,167.0,180863,1–2 Lakh,0.144311377245509,7504.688796680497
+Hero Xtreme 160R,Hero,/hero-bikes/xtreme/,4.3,597.0,163.2,49.65,14.79,139.5,109806,1–2 Lakh,0.10602150537634408,7424.340770791076
+TVS Apache RTR 200 4V,TVS,/tvs-bikes/apache-200/,4.5,1736.0,197.75,41.9,20.54,152.0,138375,1–2 Lakh,0.1351315789473684,6736.854917234665
+Triumph Speed T4,Triumph,/triumph-bikes/speed-t4/,4.3,21.0,349.0,30.0,28.6,180.0,207965,2–5 Lakh,0.15888888888888889,7271.5034965034965
+TVS Sport,TVS,/tvs-bikes/sport/,4.4,1670.0,109.7,80.0,8.08,112.0,65714,Under 1 Lakh,0.07214285714285715,8132.920792079208
+TVS XL 100 Heavy Duty,TVS,/tvs-bikes/xl-100-heavy-duty/,4.5,418.0,99.7,57.0,4.3,89.0,47918,Under 1 Lakh,0.048314606741573035,11143.72093023256
+TVS Orbiter,TVS,/tvs-bikes/orbiter/,4.4,189.0,,,,112.0,102459,1–2 Lakh,,
+OLA S1 Z,Ola Electric,/ola-bikes/s1-z/,4.0,12.0,,,,132.7,79999,Under 1 Lakh,,
+Bajaj Pulsar 220F,Bajaj,/bajaj-bikes/pulsar-220f/,4.4,10.0,220.0,43.0,20.11,160.0,139686,1–2 Lakh,0.1256875,6946.0964694182
+Honda Hornet 2.0,Honda,/honda-bikes/hornet/,4.2,612.0,184.4,42.3,17.03,142.0,149616,1–2 Lakh,0.11992957746478874,8785.437463300059
+BMW S1000RR,BMW,/bmw-bikes/s1000rr/,4.8,61.0,999.0,16.0,206.51,197.0,2375000,Above 10 Lakh,1.0482741116751269,11500.653721369426
+Kawasaki Ninja ZX-10R,Kawasaki,/kawasaki-bikes/ninja-zx-10r/,5.0,42.0,998.0,25.0,193.0,207.0,2079000,Above 10 Lakh,0.9323671497584541,10772.020725388602
+Suzuki Burgman Street 125,Suzuki,/suzuki-bikes/burgman-street-125/,4.6,83.0,124.0,58.5,8.31,115.0,106095,1–2 Lakh,0.07226086956521739,12767.148014440432
+Honda Activa e,Honda,/honda-bikes/activa-e/,4.5,193.0,,,,119.0,120133,1–2 Lakh,,
+Honda Shine 100,Honda,/honda-bikes/shine-100/,4.6,713.0,98.98,65.0,7.28,103.0,65996,Under 1 Lakh,0.07067961165048543,9065.384615384615
+TVS Radeon,TVS,/tvs-bikes/radeon/,4.3,641.0,109.7,63.0,8.08,115.0,73715,Under 1 Lakh,0.07026086956521739,9123.143564356436
+Royal Enfield Scram 440,Royal Enfield,/royalenfield-bikes/scram-440/,4.4,75.0,443.0,30.0,25.4,196.0,224373,2–5 Lakh,0.12959183673469388,8833.582677165356
+Hero Xoom 125,Hero,/hero-bikes/xoom-125/,4.3,163.0,124.6,52.8,9.8,121.0,86087,Under 1 Lakh,0.0809917355371901,8784.38775510204
+Kawasaki Ninja 300,Kawasaki,/kawasaki-bikes/ninja-300/,3.3,2.0,296.0,27.0,38.88,179.0,334000,2–5 Lakh,0.21720670391061453,8590.534979423868
+Bajaj Dominar 250,Bajaj,/bajaj-bikes/dominar-250/,4.5,400.0,248.8,35.0,26.63,180.0,186825,1–2 Lakh,0.14794444444444443,7015.583927900864
+Royal Enfield Goan Classic 350,Royal Enfield,/royalenfield-bikes/goan-classic-350/,4.8,91.0,349.0,36.2,20.2,197.0,225311,2–5 Lakh,0.10253807106598985,11154.009900990099
+Honda NX200,Honda,/honda-bikes/nx200/,4.7,65.0,184.4,42.0,16.76,148.0,160605,1–2 Lakh,0.11324324324324325,9582.637231503579
+Suzuki Gixxer SF,Suzuki,/suzuki-bikes/gixxer-sf/,4.5,710.0,155.0,45.0,13.4,148.0,143272,1–2 Lakh,0.09054054054054055,10691.940298507463
+OLA S1 X,Ola Electric,/ola-bikes/s1-x/,4.0,313.0,,,,113.0,89999,Under 1 Lakh,,
+KTM 250 Adventure,KTM,/ktm-bikes/250-adventure/,4.3,46.0,248.76,31.0,30.5,177.0,252681,2–5 Lakh,0.17231638418079095,8284.622950819672
+Hero Xtreme 160R 4V,Hero,/hero-bikes/xtreme-160r-4v/,4.7,179.0,163.2,45.0,16.6,145.0,134470,1–2 Lakh,0.11448275862068967,8100.602409638554
+Jawa Perak,Jawa,/jawa-bikes/perak/,4.7,310.0,334.0,30.0,30.2,185.0,221820,2–5 Lakh,0.16324324324324324,7345.0331125827815
+KTM 390 Duke R,KTM,/ktm-bikes/390-duke-r/,4.8,475.0,398.63,29.0,45.3,168.3,345036,2–5 Lakh,0.2691622103386809,7616.688741721855
+Triumph Tracker 400,Triumph,/triumph-bikes/tracker-400/,4.4,10.0,349.0,27.7,39.45,183.0,242064,2–5 Lakh,0.2155737704918033,6135.969581749049
+Harley-Davidson Sportster S,Harley-Davidson,/harleydavidson-bikes/sportster-s/,4.9,14.0,1252.0,20.0,120.69,228.0,1805000,Above 10 Lakh,0.5293421052631578,14955.671555224128
+Bajaj Pulsar N125,Bajaj,/bajaj-bikes/pulsar-n125/,4.4,183.0,124.58,60.0,11.83,125.0,93694,Under 1 Lakh,0.09464,7920.033812341505
+Hero Passion Plus,Hero,/hero-bikes/passion-plus/,4.6,415.0,97.2,71.0,7.91,116.0,79535,Under 1 Lakh,0.0681896551724138,10054.993678887484
+Ather 450X,Ather,/ather-bikes/450x/,3.9,404.0,,,,111.6,153554,1–2 Lakh,,
+Simple Energy Wave,Simple Energy,/simple-energy-bikes/wave/,3.5,5.0,,,,,109999,1–2 Lakh,,
+River Indie,River,/river-bikes/indie/,4.3,155.0,,,,135.0,152600,1–2 Lakh,,
+Kawasaki Ninja ZX-6R,Kawasaki,/kawasaki-bikes/ninja-zx-6r/,4.8,25.0,636.0,22.0,122.03,198.0,1248948,Above 10 Lakh,0.6163131313131314,10234.761943784315
+Hero Destini 125,Hero,/hero-bikes/destini-125/,4.6,149.0,124.6,59.0,9.0,115.0,81701,Under 1 Lakh,0.0782608695652174,9077.888888888889
+TVS Apache RTR 180,TVS,/tvs-bikes/apache-180/,4.6,704.0,177.4,42.0,16.78,140.0,127730,1–2 Lakh,0.11985714285714287,7612.038140643623
+Royal Enfield Classic 650,Royal Enfield,/royalenfield-bikes/classic-650/,4.7,55.0,647.95,26.5,46.39,243.0,367592,2–5 Lakh,0.19090534979423868,7923.949126967019
+Hero Super Splendor Xtec 2.0,Hero,/hero-bikes/super-splendor-xtec-20/,4.3,21.0,124.7,75.0,10.7,121.0,85925,Under 1 Lakh,0.0884297520661157,8030.373831775702
+Bajaj Freedom,Bajaj,/bajaj-bikes/cng-freedom-125/,4.6,756.0,125.0,,9.3,149.0,104237,1–2 Lakh,0.06241610738255034,11208.279569892473
+Royal Enfield Bullet 650,Royal Enfield,/royalenfield-bikes/bullet-650/,4.2,5.0,647.95,,46.39,243.0,364856,2–5 Lakh,0.19090534979423868,7864.970898900625
+Bajaj Platina 100,Bajaj,/bajaj-bikes/platina-100/,4.5,1927.0,99.59,75.0,7.79,117.0,71038,Under 1 Lakh,0.06658119658119659,9119.127086007702
+Royal Enfield Flying Flea C6,Royal Enfield,/royalenfield-bikes/flying-flea/,3.4,19.0,,,,124.0,279000,2–5 Lakh,,
+Hero Glamour,Hero,/hero-bikes/glamour/,4.1,1298.0,124.7,65.0,10.39,122.5,85003,Under 1 Lakh,0.08481632653061225,8181.231953801732
+Suzuki Hayabusa,Suzuki,/suzuki-bikes/hayabusa/,4.8,34.0,1340.0,18.0,190.0,266.0,1806885,Above 10 Lakh,0.7142857142857143,9509.921052631578
+Triumph Street Triple RS,Triumph,/triumph-bikes/street-triple-rs/,4.8,27.0,765.0,19.5,128.2,188.0,1322800,Above 10 Lakh,0.6819148936170212,10318.252730109205
+Jawa 350,Jawa,/jawa-bikes/350/,3.8,46.0,334.0,29.5,22.26,194.0,182531,1–2 Lakh,0.11474226804123712,8199.95507637017
+Aprilia Tuono 457,Aprilia,/aprilia-bikes/tuono-457/,4.7,19.0,457.0,29.0,46.9,175.0,406198,2–5 Lakh,0.268,8660.938166311302
+Yezdi Scrambler,Yezdi,/yezdi-bikes/scrambler/,3.6,7.0,334.0,,29.56,174.0,201981,2–5 Lakh,0.16988505747126437,6832.916102841678
+Keeway SR125,Keeway,/keeway-bikes/sr125/,4.2,183.0,125.0,47.0,9.56,120.0,128987,1–2 Lakh,0.07966666666666668,13492.364016736401
+Kawasaki Ninja 500 [2027],Kawasaki,/kawasaki-bikes/ninja-500-2027/,,,451.0,21.0,44.7,171.0,576000,5–10 Lakh,0.26140350877192986,12885.906040268455
+Ducati Panigale V4 Lamborghini,Ducati,/ducati-bikes/panigale-v4-lamborghini/,4.1,7.0,1103.0,12.0,216.0,185.0,10000000,Above 10 Lakh,1.1675675675675676,46296.2962962963
+Kawasaki W175,Kawasaki,/kawasaki-bikes/w175/,4.2,88.0,177.0,42.0,12.8,135.0,115006,1–2 Lakh,0.09481481481481482,8984.84375
+Ultraviolette Tesseract,Ultraviolette,/ultraviolette-bikes/tesseract/,4.8,207.0,,,,,145000,1–2 Lakh,,
+Royal Enfield Bear 650,Royal Enfield,/royalenfield-bikes/bear-650/,4.5,37.0,648.0,22.0,46.8,216.0,378208,2–5 Lakh,0.21666666666666665,8081.3675213675215
+Hero Pleasure Plus,Hero,/hero-bikes/pleasure-plus/,4.5,511.0,110.9,50.0,8.0,104.0,70372,Under 1 Lakh,0.07692307692307693,8796.5
+KTM 1390 Super Duke R,KTM,/ktm-bikes/1390-super-duke-r/,4.7,40.0,1350.0,16.9,187.7,210.0,2295800,Above 10 Lakh,0.8938095238095237,12231.220031965904
+Suzuki Gixxer,Suzuki,/suzuki-bikes/gixxer/,4.3,291.0,155.0,45.0,13.41,141.0,129449,1–2 Lakh,0.09510638297872341,9653.16927665921
+Yamaha FZ Blue Flex,Yamaha,/yamaha-bikes/fz-flex/,4.0,7.0,149.0,50.0,11.53,136.0,126102,1–2 Lakh,0.08477941176470588,10936.86036426713
+Ultraviolette X47 Crossover,Ultraviolette,/ultraviolette-bikes/x47-crossover/,4.2,38.0,,,,208.0,249000,2–5 Lakh,,
+Kawasaki Z650,Kawasaki,/kawasaki-bikes/z650/,4.9,93.0,649.0,27.0,67.31,191.0,725960,5–10 Lakh,0.3524083769633508,10785.32164611499
+Bajaj Platina 110,Bajaj,/bajaj-bikes/platina-110/,4.4,761.0,115.45,70.0,8.48,119.0,75798,Under 1 Lakh,0.07126050420168067,8938.443396226414
+Yamaha R15S,Yamaha,/yamaha-bikes/r15-s/,4.8,257.0,155.0,46.0,18.1,142.0,160026,1–2 Lakh,0.12746478873239436,8841.215469613258
+Suzuki Avenis 125,Suzuki,/suzuki-bikes/avenis/,4.6,355.0,124.3,49.6,8.58,106.0,93011,Under 1 Lakh,0.0809433962264151,10840.44289044289
+Bajaj CT 110,Bajaj,/bajaj-bikes/ct-110/,4.4,467.0,115.45,70.0,8.48,127.0,74847,Under 1 Lakh,0.0667716535433071,8826.29716981132
+Hero Xoom 160,Hero,/hero-bikes/xoom-160/,4.7,79.0,156.0,40.5,14.6,142.5,143051,1–2 Lakh,0.10245614035087719,9798.013698630137
+Hero Karizma XMR,Hero,/hero-bikes/karizma-xmr/,4.4,212.0,210.0,35.0,25.15,163.5,186644,1–2 Lakh,0.15382262996941895,7421.232604373758
+Suzuki Gixxer SF 250,Suzuki,/suzuki-bikes/gixxer-sf-250/,4.6,241.0,249.0,35.0,26.13,161.0,195328,1–2 Lakh,0.16229813664596274,7475.239188672025
+TVS Star City Plus,TVS,/tvs-bikes/star-city/,4.4,789.0,109.7,70.0,8.08,116.0,72026,Under 1 Lakh,0.0696551724137931,8914.10891089109
+Hero Splendor Plus Flex Fuel,Hero,/hero-bikes/splendor-plus-flex-fuel/,4.6,26.0,97.2,62.0,8.44,113.0,81199,Under 1 Lakh,0.07469026548672567,9620.7345971564
+Bajaj Pulsar 180,Bajaj,/bajaj-bikes/pulsar-180/,4.3,13.0,178.61,44.0,16.76,156.0,122925,1–2 Lakh,0.10743589743589745,7334.427207637231
+Yamaha FZ Rave,Yamaha,/yamaha-bikes/fz-rave/,4.5,22.0,149.0,50.0,12.2,136.0,125642,1–2 Lakh,0.08970588235294118,10298.524590163935
+KTM RC 200,KTM,/ktm-bikes/rc-200/,4.5,228.0,199.5,43.5,24.6,160.0,231913,2–5 Lakh,0.15375,9427.357723577235
+Yamaha FZ X Hybrid,Yamaha,/yamaha-bikes/fz-x-hybrid/,4.7,59.0,149.0,51.0,12.2,141.0,145967,1–2 Lakh,0.08652482269503546,11964.508196721312
+Bajaj Avenger Cruise 220,Bajaj,/bajaj-bikes/avenger-cruise-220/,4.4,892.0,220.0,39.0,18.76,163.0,134155,1–2 Lakh,0.11509202453987731,7151.119402985074
+Honda CB350C,Honda,/honda-bikes/cb350c/,4.9,21.0,348.36,38.0,20.7,186.0,198556,1–2 Lakh,0.11129032258064515,9592.07729468599
+Ducati Panigale V4,Ducati,/ducati-bikes/panigale-v4/,4.8,22.0,1103.0,14.0,219.0,188.0,3269958,Above 10 Lakh,1.1648936170212767,14931.315068493152
+KTM RC 390,KTM,/ktm-bikes/rc-390/,4.7,143.0,373.27,29.0,42.9,172.0,332938,2–5 Lakh,0.24941860465116278,7760.792540792541
+Bajaj Chetak C25,Bajaj,/bajaj-bikes/chetak-c25/,4.5,35.0,,,,108.0,104599,1–2 Lakh,,
+Honda CBR1000RR-R Fireblade,Honda,/honda-bikes/cbr1000rr-r-fireblade/,3.5,5.0,1000.0,,214.56,201.0,3350000,Above 10 Lakh,1.0674626865671641,15613.348247576436
+OLA S1 Pro,Ola Electric,/ola-bikes/s1-pro/,3.1,236.0,,,,118.0,135847,1–2 Lakh,,
+Triumph Thruxton 400,Triumph,/triumph-bikes/thruxton-400/,4.2,5.0,349.0,27.0,39.45,190.0,274811,2–5 Lakh,0.20763157894736844,6966.058301647655
+OLA Roadster,Ola Electric,/ola-bikes/roadster/,4.6,174.0,,,,,104999,1–2 Lakh,,
+Triumph Rocket 3,Triumph,/triumph-bikes/rocket-3/,4.7,64.0,2458.0,14.6,165.0,304.0,2401955,Above 10 Lakh,0.5427631578947368,14557.30303030303
+Zontes 350R,Zontes,/zontes-bikes/350r/,4.6,91.0,348.0,32.0,38.2,180.0,257014,2–5 Lakh,0.21222222222222223,6728.115183246073
+TVS Zest 110,TVS,/tvs-bikes/zest-110/,4.2,251.0,109.7,45.0,7.71,103.0,70560,Under 1 Lakh,0.07485436893203884,9151.750972762646
+KTM RC 160,KTM,/ktm-bikes/rc-160/,4.3,9.0,164.2,,18.73,155.0,199975,1–2 Lakh,0.12083870967741936,10676.721836625733
+Triumph Daytona 660,Triumph,/triumph-bikes/daytona-660/,4.4,19.0,660.0,20.0,93.87,201.0,988400,5–10 Lakh,0.4670149253731343,10529.455630126771
+Ather 450S,Ather,/ather-bikes/450s/,4.6,92.0,,,,111.6,130310,1–2 Lakh,,
+VIDA V2,VIDA,/vida-bikes/v2/,4.2,170.0,,,,125.0,150173,1–2 Lakh,,
+Oben Rorr EVO,Oben,/oben-bikes/rorr-evo/,4.6,54.0,,,,140.0,124999,1–2 Lakh,,
+Bajaj Avenger Street 220,Bajaj,/bajaj-bikes/avenger-street-220/,4.1,7.0,220.0,,18.76,160.0,134101,1–2 Lakh,0.11725000000000001,7148.240938166311
+Hero Super Splendor Xtec,Hero,/hero-bikes/super-splendor-xtec/,4.5,240.0,124.7,69.0,10.72,123.0,83928,Under 1 Lakh,0.08715447154471545,7829.10447761194
+Suzuki Burgman Street EX,Suzuki,/suzuki-bikes/burgman-street-ex/,4.5,1206.0,124.0,58.5,8.48,111.0,114839,1–2 Lakh,0.07639639639639641,13542.334905660377
+Yamaha EC 06,Yamaha,/yamaha-bikes/ec-06/,4.7,7.0,,,,132.0,172013,1–2 Lakh,,
+Hero Xoom 110,Hero,/hero-bikes/xoom/,4.3,175.0,110.9,45.0,8.05,109.0,78303,Under 1 Lakh,0.07385321100917432,9727.080745341615
+Harley-Davidson Nightster,Harley-Davidson,/harleydavidson-bikes/nightster/,4.9,9.0,975.0,18.0,88.5,221.0,1454000,Above 10 Lakh,0.4004524886877828,16429.378531073446
+Honda QC1,Honda,/honda-bikes/qc1/,4.3,57.0,,,,89.5,90708,Under 1 Lakh,,
+Honda NX500,Honda,/honda-bikes/nx500/,3.2,4.0,471.0,26.5,46.9,196.0,743900,5–10 Lakh,0.23928571428571427,15861.40724946695
+Ampere Magnus G Max,Ampere,/ampere-bikes/magnus-g-max/,4.0,10.0,,,,116.0,102999,1–2 Lakh,,
+Husqvarna Vitpilen 250,Husqvarna,/husqvarna-bikes/vitpilen-250/,4.8,61.0,249.0,37.0,30.57,163.8,226937,2–5 Lakh,0.1866300366300366,7423.519790644423
+Simple Energy One,Simple Energy,/simple-energy-bikes/one/,4.3,26.0,,,,129.0,184949,1–2 Lakh,,
+Ultraviolette F77 Mach 2,Ultraviolette,/ultraviolette-bikes/f77-mach-2/,4.7,43.0,,,,207.0,308994,2–5 Lakh,,
+Kawasaki KLX230,Kawasaki,/kawasaki-bikes/klx230/,2.5,1.0,233.0,36.0,18.37,139.0,219000,2–5 Lakh,0.13215827338129496,11921.611322808927
+Harley-Davidson Fat Boy,Harley-Davidson,/harleydavidson-bikes/fat-boy/,4.8,7.0,1868.0,18.0,93.87,317.0,2803000,Above 10 Lakh,0.2961198738170347,29860.445296686907
+Ather 450 Apex,Ather,/ather-bikes/450-apex/,4.6,31.0,,,,111.6,196190,1–2 Lakh,,
+KTM 390 Adventure X,KTM,/ktm-bikes/390-adventure-x/,4.7,29.0,398.63,28.0,45.3,181.0,349728,2–5 Lakh,0.25027624309392266,7720.264900662252
+KTM 390 Adventure S,KTM,/ktm-bikes/390-adventure-s/,4.9,27.0,398.63,26.5,45.3,182.0,405011,2–5 Lakh,0.24890109890109888,8940.640176600442
+Aprilia SR 175,Aprilia,/aprilia-bikes/sr-175/,4.3,24.0,174.7,40.0,13.08,,125804,1–2 Lakh,,9618.042813455657
+Keeway SR250,Keeway,/keeway-bikes/sr250/,3.4,55.0,223.0,35.5,15.78,120.0,158985,1–2 Lakh,0.1315,10075.095057034221
+OLA Roadster Pro,Ola Electric,/ola-bikes/roadster-pro/,4.8,130.0,,,,,199999,1–2 Lakh,,
+Triumph Scrambler 400 XC,Triumph,/triumph-bikes/scrambler-400-xc/,3.5,13.0,349.0,26.0,36.49,185.0,298809,2–5 Lakh,0.19724324324324324,8188.791449712249
+Honda Goldwing,Honda,/honda-bikes/Goldwing/,3.3,2.0,1833.0,16.0,124.7,390.0,4430000,Above 10 Lakh,0.31974358974358974,35525.2606255012
+Harley-Davidson Fat Bob,Harley-Davidson,/harleydavidson-bikes/fat-bob/,4.8,12.0,1868.0,18.0,92.5,306.0,2296480,Above 10 Lakh,0.3022875816993464,24826.81081081081
+BGauss C12 MaxR,BGauss,/bgauss-bikes/c12-maxr/,,,,,,126.0,159990,1–2 Lakh,,
+Suzuki E Access,Suzuki,/suzuki-bikes/e-access/,3.9,15.0,,,,122.0,190761,1–2 Lakh,,
+BMW R 1300 GS,BMW,/bmw-bikes/r1300gs/,5.0,4.0,1300.0,21.0,145.0,237.0,2349945,Above 10 Lakh,0.6118143459915611,16206.51724137931
+Triumph Trident 660,Triumph,/triumph-bikes/trident-660/,4.4,8.0,660.0,15.0,80.0,189.0,899000,5–10 Lakh,0.42328042328042326,11237.5
+Hero Destini 110,Hero,/hero-bikes/destini-110/,4.5,32.0,110.9,56.2,8.07,114.0,77528,Under 1 Lakh,0.07078947368421053,9606.939281288724
+QJ Motor SRC 500,QJ Motor,/qjmotor-bikes/src-500/,4.2,19.0,480.0,31.5,25.15,205.0,210019,2–5 Lakh,0.12268292682926829,8350.656063618291
+Kawasaki Ninja 500 [2026],Kawasaki,/kawasaki-bikes/ninja-500-2026/,3.5,8.0,451.0,21.0,44.7,171.0,576000,5–10 Lakh,0.26140350877192986,12885.906040268455
+Kawasaki Ninja 650,Kawasaki,/kawasaki-bikes/ninja-650/,4.6,4.0,649.0,,67.3,196.0,791000,5–10 Lakh,0.3433673469387755,11753.34323922734
+BMW M 1000 R,BMW,/bmw-bikes/m-1000-r/,1.7,2.0,999.0,15.6,206.5,210.0,3350000,Above 10 Lakh,0.9833333333333333,16222.7602905569
+Kawasaki Ninja H2 SX SE,Kawasaki,/kawasaki-bikes/ninja-h2-sx-se/,4.9,15.0,998.0,,197.2,268.0,3627783,Above 10 Lakh,0.735820895522388,18396.46551724138
+Suzuki Gixxer 250,Suzuki,/suzuki-bikes/gixxer-250/,4.7,120.0,249.0,35.0,26.13,156.0,184538,1–2 Lakh,0.16749999999999998,7062.30386528894
+Ducati Panigale V4 R,Ducati,/ducati-bikes/panigale-v4-r/,4.2,10.0,998.0,12.5,221.0,193.5,8499000,Above 10 Lakh,1.1421188630490957,38457.01357466063
+VLF Mobster,VLF,/vlf-bikes/mobster/,4.5,16.0,125.0,46.0,11.93,122.0,130000,1–2 Lakh,0.09778688524590164,10896.898575020956
+Kawasaki Z1100,Kawasaki,/kawasaki-bikes/z1100/,4.9,9.0,1099.0,18.5,134.1,221.0,1279000,Above 10 Lakh,0.606787330316742,9537.65846383296
+Aprilia SR 125,Aprilia,/aprilia-bikes/sr-125/,4.4,124.0,124.45,39.5,10.46,118.0,113321,1–2 Lakh,0.08864406779661017,10833.747609942639
+Vespa ZX 125,Vespa,/vespa-bikes/zx-125/,4.5,62.0,124.45,45.0,9.65,115.0,118714,1–2 Lakh,0.08391304347826087,12301.968911917098
+Triumph Street Triple R,Triumph,/triumph-bikes/street-triple-r/,4.8,17.0,765.0,19.0,118.4,168.0,1116300,Above 10 Lakh,0.7047619047619048,9428.209459459458
+Benelli TRK 502X,Benelli,/benelli-bikes/trk-502x/,4.7,7.0,500.0,25.0,46.8,235.0,714000,5–10 Lakh,0.19914893617021276,15256.410256410258
+Suzuki Gixxer SF 250 Flex Fuel,Suzuki,/suzuki-bikes/gixxer-sf-250-flex-fuel/,4.9,8.0,249.0,35.0,26.13,161.0,200847,2–5 Lakh,0.16229813664596274,7686.452353616533
+Simple Energy Ultra,Simple Energy,/simple-energy-bikes/ultra/,3.7,13.0,,,,139.0,242777,2–5 Lakh,,
+Honda CB750 Hornet,Honda,/honda-bikes/cb750-hornet/,3.3,2.0,755.0,,90.5,191.0,1049000,Above 10 Lakh,0.4738219895287958,11591.160220994476
+Hero HF Deluxe Flex Fuel,Hero,/hero-bikes/hf-deluxe-flex-fuel/,4.3,9.0,97.2,65.0,8.44,112.5,69814,Under 1 Lakh,0.07502222222222221,8271.8009478673
+Suzuki GSX-8R,Suzuki,/suzuki-bikes/gsx-8r/,,,776.0,23.8,81.8,205.0,988551,5–10 Lakh,0.3990243902439024,12084.97555012225
+Aprilia RS 660,Aprilia,/aprilia-bikes/rs-660/,4.2,5.0,659.0,,98.56,183.0,1895878,Above 10 Lakh,0.5385792349726776,19235.77516233766
+Ducati Monster,Ducati,/ducati-bikes/monster/,1.0,1.0,890.0,19.0,110.7,188.0,1399000,Above 10 Lakh,0.5888297872340426,12637.759710930442
+Zontes 350T,Zontes,/zontes-bikes/350t/,4.6,36.0,348.0,30.0,38.2,196.0,275016,2–5 Lakh,0.19489795918367347,7199.37172774869
+BMW C 400 GT,BMW,/bmw-bikes/c-400-gt/,4.8,5.0,350.0,28.0,33.5,214.0,1150000,Above 10 Lakh,0.15654205607476634,34328.35820895522
+Kinetic DX,Kinetic,/kinetic-bikes/dx/,,,,,,90.0,111499,1–2 Lakh,,
+Triumph Bonneville Bobber,Triumph,/triumph-bikes/bonneville-bobber/,3.8,3.0,1200.0,21.7,76.9,251.0,1351600,Above 10 Lakh,0.3063745019920319,17576.072821846552
+Aprilia SR 160,Aprilia,/aprilia-bikes/sr-160/,3.7,102.0,160.03,35.0,11.11,118.0,121432,1–2 Lakh,0.09415254237288136,10929.97299729973
+QJ Motor SRV 300,QJ Motor,/qjmotor-bikes/srv-300/,3.4,4.0,296.0,29.0,30.72,164.0,329000,2–5 Lakh,0.1873170731707317,10709.635416666668
+OLA Roadster X Plus,Ola Electric,/ola-bikes/roadster-x-plus/,4.2,47.0,,,,148.3,129151,1–2 Lakh,,
+Husqvarna Svartpilen 401,Husqvarna,/husqvarna-bikes/svartpilen-401/,4.8,41.0,398.63,29.0,45.3,171.2,299030,2–5 Lakh,0.26460280373831774,6601.103752759383
+QJ Motor SRC 250,QJ Motor,/qjmotor-bikes/src-250/,4.5,18.0,249.0,39.0,17.16,163.0,137027,1–2 Lakh,0.1052760736196319,7985.25641025641
+Ducati Panigale V2,Ducati,/ducati-bikes/panigale-v2/,5.0,1.0,890.0,16.6,118.0,200.0,1950975,Above 10 Lakh,0.59,16533.686440677968
+Lectrix SX25,Lectrix,/lectrix-bikes/sx25/,4.5,40.0,,,,70.0,54999,Under 1 Lakh,,
+Ampere Magnus Neo,Ampere,/ampere-bikes/magnus/,3.2,8.0,,,,104.0,90999,Under 1 Lakh,,
+Triumph Tiger 900,Triumph,/triumph-bikes/tiger-900/,5.0,4.0,888.0,21.2,106.5,219.0,1440000,Above 10 Lakh,0.4863013698630137,13521.12676056338
+Revolt RV1,Revolt,/revolt-bikes/rv1/,4.4,76.0,,,,110.0,99986,Under 1 Lakh,,
+Triumph Bonneville T120,Triumph,/triumph-bikes/bonneville-t120/,,,1200.0,21.0,78.9,236.0,1217000,Above 10 Lakh,0.3343220338983051,15424.588086185044
+Kawasaki Ninja 300 [2026],Kawasaki,/kawasaki-bikes/ninja-300-2026/,4.4,12.0,296.0,26.5,38.88,179.0,317000,2–5 Lakh,0.21720670391061453,8153.292181069958
+OLA Roadster X,Ola Electric,/ola-bikes/roadster-x/,4.4,125.0,,,,127.0,100400,1–2 Lakh,,
+Benelli 502C,Benelli,/benelli-bikes/502c/,4.4,24.0,500.0,22.0,46.8,216.0,579964,5–10 Lakh,0.21666666666666665,12392.393162393164
+Avore EX2,Avore,/avore-bikes/ex2/,4.3,6.0,,,,145.0,149999,1–2 Lakh,,
+Triumph Speed Twin 900,Triumph,/triumph-bikes/speed-twin-900/,4.7,4.0,900.0,24.0,64.0,216.0,971300,5–10 Lakh,0.2962962962962963,15176.5625
+Honda CB1000 Hornet,Honda,/honda-bikes/cb1000-hornet/,4.8,6.0,999.0,,155.0,211.0,1329390,Above 10 Lakh,0.7345971563981043,8576.709677419354
+Kawasaki Vulcan S,Kawasaki,/kawasaki-bikes/vulcan-s/,5.0,3.0,649.0,,59.94,,813000,5–10 Lakh,,13563.563563563564
+KTM 390 Enduro R,KTM,/ktm-bikes/390-enduro-r/,4.6,5.0,398.63,,45.37,165.8,339269,2–5 Lakh,0.27364294330518696,7477.826757769451
+Indian Scout Bobber,Indian,/indian-bikes/scout-bobber/,4.9,12.0,1250.0,21.0,106.46,246.0,1495115,Above 10 Lakh,0.4327642276422764,14043.91320683825
+Kawasaki Eliminator,Kawasaki,/kawasaki-bikes/eliminator/,4.7,24.0,451.0,29.0,44.7,176.0,616000,5–10 Lakh,0.2539772727272727,13780.760626398209
+KTM 390 Adventure R,KTM,/ktm-bikes/390-adventure-r/,5.0,3.0,398.7,,44.2,183.0,386235,2–5 Lakh,0.24153005464480876,8738.348416289593
+Honda Transalp XL750,Honda,/honda-bikes/transalp-xl750/,,,755.0,,90.5,208.0,1320000,Above 10 Lakh,0.43509615384615385,14585.635359116022
+Ampere Reo,Ampere,/ampere-bikes/reo/,4.3,22.0,,,,74.0,71999,Under 1 Lakh,,
+BMW R 1300 GS Adventure,BMW,/bmw-bikes/r-1300-gs-adventure/,4.9,10.0,1300.0,21.0,143.4,269.0,2574896,Above 10 Lakh,0.533085501858736,17956.039051603904
+Kawasaki Versys-X 300,Kawasaki,/kawasaki-bikes/versys-x-300/,4.0,7.0,296.0,,38.8,175.0,349000,2–5 Lakh,0.2217142857142857,8994.845360824744
+Vespa 125,Vespa,/vespa-bikes/125/,,,124.45,38.0,9.3,115.0,132678,1–2 Lakh,0.0808695652173913,14266.451612903225
+Ducati SuperSport,Ducati,/ducati-bikes/supersport/,4.8,23.0,937.0,17.8,108.62,210.0,1716100,Above 10 Lakh,0.5172380952380953,15799.116184864664
+Revolt RV400,Revolt,/revolt-bikes/rv400/,3.8,540.0,,,,108.0,129951,1–2 Lakh,,
+BSA Gold Star 650,BSA,/bsa-bikes/gold-star-650/,4.6,41.0,652.0,25.0,45.6,201.0,337224,2–5 Lakh,0.22686567164179106,7395.263157894737
+Moto Morini Seiemmezzo,Moto Morini,/motomorini-bikes/seiemmezzo/,4.5,7.0,649.0,,54.24,215.0,439195,2–5 Lakh,0.25227906976744185,8097.252949852507
+BSA Scrambler 650,BSA,/bsa-bikes/scrambler-650/,4.3,6.0,652.0,,45.62,208.0,327266,2–5 Lakh,0.21932692307692306,7173.739587900044
+TVS X,TVS,/tvs-bikes/x/,3.6,25.0,,,,,264837,2–5 Lakh,,
+Suzuki V-Strom 800 DE,Suzuki,/suzuki-bikes/v-strom-800-de/,5.0,1.0,776.0,22.7,83.0,232.0,1101541,Above 10 Lakh,0.3577586206896552,13271.578313253012
+Ampere Nexus,Ampere,/ampere-bikes/nexus/,4.3,72.0,,,,126.4,129999,1–2 Lakh,,
+BMW CE 02,BMW,/bmw-bikes/ce-02/,3.8,9.0,,,,142.0,449900,2–5 Lakh,,
+Revolt RVX,Revolt,/revolt-bikes/rvx/,3.3,5.0,,,,120.0,129990,1–2 Lakh,,
+BMW S 1000 R,BMW,/bmw-bikes/s-1000-r/,5.0,2.0,999.0,16.0,167.6,199.0,2225000,Above 10 Lakh,0.8422110552763818,13275.65632458234
+TVS XL 100 Comfort,TVS,/tvs-bikes/xl-100-comfort/,4.2,301.0,99.7,55.0,4.29,89.0,60360,Under 1 Lakh,0.04820224719101124,14069.93006993007
+BMW F 900 GS Adventure,BMW,/bmw-bikes/f-900-gs-adventure/,5.0,3.0,895.0,22.7,103.25,246.0,1749912,Above 10 Lakh,0.41971544715447157,16948.30024213075
+Ferrato FEV 650,Ferrato,/ferrato-bikes/fev-650/,2.5,1.0,,,,164.0,159999,1–2 Lakh,,
+Zontes 350X,Zontes,/zontes-bikes/350x/,4.7,17.0,348.0,35.0,38.2,185.0,237040,2–5 Lakh,0.20648648648648651,6205.235602094241
+Yamaha Aerox E,Yamaha,/yamaha-bikes/aerox-e/,,,,,,139.0,281609,2–5 Lakh,,
+Ultraviolette F77 SuperStreet,Ultraviolette,/ultraviolette-bikes/f77-superstreet/,4.4,8.0,,,,207.0,308987,2–5 Lakh,,
+Ultraviolette Shockwave,Ultraviolette,/ultraviolette-bikes/shockwave/,4.7,27.0,,,,120.0,175000,1–2 Lakh,,
+Hero Pleasure Plus Xtec,Hero,/hero-bikes/pleasure-plus-xtec/,3.9,102.0,110.9,50.0,8.0,106.0,78051,Under 1 Lakh,0.07547169811320754,9756.375
+Keeway Hypevolt-R,Keeway,/keeway-bikes/hypevolt-r/,3.8,3.0,,,,140.0,199000,1–2 Lakh,,
+Aprilia RSV4 1100 Factory,Aprilia,/aprilia-bikes/rsv4-1100-factory/,5.0,5.0,1099.0,,213.89,202.0,3340763,Above 10 Lakh,1.0588613861386138,15619.070550282857
+Ducati Scrambler Icon,Ducati,/ducati-bikes/scrambler-icon/,5.0,3.0,803.0,19.0,71.87,185.0,1086986,Above 10 Lakh,0.38848648648648654,15124.335605955195
+Kinetic Green E Luna,Kinetic Green,/kinetic-green-bikes/e-luna/,3.9,51.0,,,,96.0,69990,Under 1 Lakh,,
+Harley-Davidson Road Glide,Harley-Davidson,/harleydavidson-bikes/road-glide/,3.3,2.0,1923.0,16.0,107.2,380.0,4575000,Above 10 Lakh,0.28210526315789475,42677.23880597015
+Harley-Davidson Breakout,Harley-Davidson,/harleydavidson-bikes/breakout/,2.0,2.0,1923.0,17.8,101.9,310.0,3436000,Above 10 Lakh,0.32870967741935486,33719.332679097155
+Triumph Speed Triple 1200 RS,Triumph,/triumph-bikes/speed-triple-1200-rs/,5.0,2.0,1160.0,18.0,180.5,199.0,2175900,Above 10 Lakh,0.907035175879397,12054.847645429363
+Avore EX2S,Avore,/avore-bikes/ex2s/,4.0,5.0,,,,157.0,169999,1–2 Lakh,,
+Triumph Speed Twin 1200,Triumph,/triumph-bikes/speed-twin-1200/,4.6,3.0,1200.0,,103.5,216.0,1383800,Above 10 Lakh,0.4791666666666667,13370.048309178745
+BMW F 900 GS,BMW,/bmw-bikes/f-900-gs/,4.9,7.0,895.0,22.7,103.25,219.0,1599925,Above 10 Lakh,0.4714611872146119,15495.641646489104
+QJ Motor SRK 400,QJ Motor,/qjmotor-bikes/srk-400/,4.8,15.0,400.0,25.0,40.34,186.0,398974,2–5 Lakh,0.21688172043010753,9890.2825979177
+KTM 890 Duke R,KTM,/ktm-bikes/890-duke-r/,4.4,11.0,889.0,21.0,119.0,180.0,1450000,Above 10 Lakh,0.6611111111111111,12184.873949579833
+Kawasaki Z650RS,Kawasaki,/kawasaki-bikes/z650rs/,4.3,2.0,649.0,,67.07,192.0,783000,5–10 Lakh,0.34932291666666665,11674.370061130163
+Ducati Streetfighter V4,Ducati,/ducati-bikes/streetfighter-v4/,5.0,3.0,1103.0,13.15,205.0,197.5,2925963,Above 10 Lakh,1.0379746835443038,14272.990243902439
+Benelli TRK 502,Benelli,/benelli-bikes/trk-502/,5.0,4.0,500.0,25.0,46.8,228.0,662000,5–10 Lakh,0.20526315789473684,14145.299145299146
+Vespa S 150,Vespa,/vespa-bikes/s-150/,4.5,2.0,149.5,,11.2,115.0,149781,1–2 Lakh,0.09739130434782609,13373.303571428572
+Hero Destini Prime,Hero,/hero-bikes/destini-prime/,4.5,95.0,124.6,49.0,9.0,115.0,77614,Under 1 Lakh,0.0782608695652174,8623.777777777777
+Oben Rorr EZ Sigma,Oben,/oben-bikes/rorr-ez-sigma/,4.7,23.0,,,,148.0,110004,1–2 Lakh,,
+Kawasaki KLX230R [2025],Kawasaki,/kawasaki-bikes/klx230r-2025/,4.6,8.0,233.0,,18.74,129.0,179010,1–2 Lakh,0.14527131782945735,9552.294557097119
+Triumph Scrambler 900,Triumph,/triumph-bikes/scrambler-900/,4.7,11.0,900.0,23.0,64.1,223.0,1074700,Above 10 Lakh,0.2874439461883408,16765.990639625586
+Triumph Tiger 1200,Triumph,/triumph-bikes/tiger-1200/,4.7,7.0,1160.0,18.0,148.0,261.0,1939000,Above 10 Lakh,0.5670498084291188,13101.351351351352
+Ducati Diavel V4,Ducati,/ducati-bikes/diavel-v4/,,,1158.0,15.6,166.28,236.0,2965962,Above 10 Lakh,0.7045762711864407,17837.154197738753
+Vespa 150,Vespa,/vespa-bikes/150/,3.3,6.0,149.5,,11.2,115.0,146714,1–2 Lakh,0.09739130434782609,13099.464285714286
+BMW K 1600,BMW,/bmw-bikes/k-1600/,5.0,9.0,1649.0,17.0,158.0,358.0,3800000,Above 10 Lakh,0.441340782122905,24050.632911392404
+Matter AERA,Matter,/matter-bikes/aera/,4.4,84.0,,,,168.0,182591,1–2 Lakh,,
+BGauss C12,BGauss,/bgauss-bikes/c12i/,,,,,,116.0,109990,1–2 Lakh,,
+Kawasaki Ninja 1100SX,Kawasaki,/kawasaki-bikes/ninja-1100sx/,4.7,2.0,1099.0,17.8,134.1,238.0,1442000,Above 10 Lakh,0.5634453781512605,10753.16927665921
+Harley-Davidson Street Bob,Harley-Davidson,/harleydavidson-bikes/street-bob/,3.3,2.0,1923.0,18.0,91.18,293.0,2023000,Above 10 Lakh,0.3111945392491468,22186.883088396575
+Revolt RV BlazeX,Revolt,/revolt-bikes/rv-blazex/,4.5,20.0,,,,113.0,127988,1–2 Lakh,,
+Simple Energy One S,Simple Energy,/simple-energy-bikes/one-s/,3.6,7.0,,,,118.0,161600,1–2 Lakh,,
+KTM 1290 Super Adventure S,KTM,/ktm-bikes/1290-super-adventure-s/,5.0,5.0,1301.0,17.5,158.0,250.0,2273900,Above 10 Lakh,0.632,14391.772151898735
+Triumph Street Triple RX,Triumph,/triumph-bikes/street-triple-rx/,3.0,2.0,765.0,19.0,128.2,168.0,1390600,Above 10 Lakh,0.763095238095238,10847.113884555383
+Triumph Tiger Sport 660,Triumph,/triumph-bikes/tiger-sport-660/,4.6,9.0,660.0,22.0,80.0,206.0,945000,5–10 Lakh,0.3883495145631068,11812.5
+Moto Morini X-Cape,Moto Morini,/motomorini-bikes/x-cape/,4.1,10.0,649.0,,59.17,235.0,639973,5–10 Lakh,0.2517872340425532,10815.835727564643
+Ducati Streetfighter V2,Ducati,/ducati-bikes/streetfighter-v2/,4.5,2.0,890.0,17.0,118.0,200.0,1785977,Above 10 Lakh,0.59,15135.398305084746
+Zontes GK350,Zontes,/zontes-bikes/gk350/,4.6,17.0,348.0,26.7,38.2,188.0,322016,2–5 Lakh,0.20319148936170214,8429.738219895287
+Kawasaki Versys 650 [2026],Kawasaki,/kawasaki-bikes/versys-650-2026/,,,649.0,19.4,65.7,218.0,863000,5–10 Lakh,0.30137614678899083,13135.464231354641
+Triumph Speed Twin 1200 Cafe Racer Edition,Triumph,/triumph-bikes/speed-twin-1200-cafe-racer-edition/,,,1200.0,,103.5,216.0,1799000,Above 10 Lakh,0.4791666666666667,17381.642512077295
+Kawasaki Ninja 500 [2025],Kawasaki,/kawasaki-bikes/ninja-500-2025/,4.8,20.0,451.0,21.0,44.7,171.0,566000,5–10 Lakh,0.26140350877192986,12662.192393736017
+Harley-Davidson Nightster Special,Harley-Davidson,/harleydavidson-bikes/nightster-special/,,,975.0,18.0,88.5,225.0,1538000,Above 10 Lakh,0.3933333333333333,17378.531073446327
+Benelli Leoncino 500,Benelli,/benelli-bikes/leoncino/,5.0,15.0,500.0,,46.8,207.0,559894,5–10 Lakh,0.22608695652173913,11963.54700854701
+Kawasaki Versys 650 [2027],Kawasaki,/kawasaki-bikes/versys-650-2027/,,,649.0,19.4,65.7,218.0,863000,5–10 Lakh,0.30137614678899083,13135.464231354641
+BMW R 12,BMW,/bmw-bikes/r-12/,4.3,6.0,1170.0,19.6,93.7,227.0,2250000,Above 10 Lakh,0.4127753303964758,24012.8068303095
+Brixton Motorcycles Crossfire 500 X,Brixton Motorcycles,/brixton-motorcycles-bikes/crossfire-500-x/,3.3,6.0,486.0,,46.9,190.0,506565,5–10 Lakh,0.2468421052631579,10800.959488272922
+BMW R 12 nine T,BMW,/bmw-bikes/r-12-nine-t/,4.8,6.0,1170.0,19.6,107.5,220.0,2350000,Above 10 Lakh,0.48863636363636365,21860.46511627907
+Avore EX1,Avore,/avore-bikes/ex1/,3.8,3.0,,,,145.0,124999,1–2 Lakh,,
+Okinawa R30,Okinawa,/okinawa-bikes/r30/,3.4,38.0,,,,,61998,Under 1 Lakh,,
+Triumph Bonneville T100,Triumph,/triumph-bikes/bonneville-t100/,5.0,2.0,900.0,24.0,64.1,228.0,1085400,Above 10 Lakh,0.28114035087719297,16932.91731669267
+Indian Scout Sixty Bobber,Indian,/indian-bikes/scout-sixty-bobber/,5.0,4.0,999.0,,86.18,243.0,1388244,Above 10 Lakh,0.3546502057613169,16108.656300765837
+Aprilia Storm 125,Aprilia,/aprilia-bikes/storm-125/,4.5,83.0,124.45,36.5,9.97,118.0,118932,1–2 Lakh,0.08449152542372881,11928.986960882647
+Vespa S 125,Vespa,/vespa-bikes/s-125/,5.0,5.0,124.45,,9.3,115.0,136961,1–2 Lakh,0.0808695652173913,14726.989247311827
+BMW CE 04,BMW,/bmw-bikes/ce-04/,5.0,5.0,,,,231.0,1525000,Above 10 Lakh,,
+Evolet Pony,Evolet,/evolet-bikes/pony/,4.5,38.0,,,,76.0,55799,Under 1 Lakh,,
+Vespa Officina 8,Vespa,/vespa-bikes/officina-8/,,,124.45,37.5,9.3,115.0,140506,1–2 Lakh,0.0808695652173913,15108.17204301075
+Kawasaki KLX230R S,Kawasaki,/kawasaki-bikes/klx230r-s/,2.0,1.0,233.0,,18.74,129.0,189000,1–2 Lakh,0.14527131782945735,10085.37886872999
+Triumph Scrambler 1200,Triumph,/triumph-bikes/scrambler-1200/,4.0,3.0,1200.0,,89.0,228.0,1264100,Above 10 Lakh,0.39035087719298245,14203.370786516854
+KTM 890 Adventure R,KTM,/ktm-bikes/890-adventure-r/,5.0,2.0,889.0,22.2,103.0,215.0,1580000,Above 10 Lakh,0.4790697674418605,15339.805825242718
+Indian Chief Dark Horse,Indian,/indian-bikes/chief-dark-horse/,4.6,17.0,1890.0,14.0,,304.0,2158779,Above 10 Lakh,,
+BGauss BG RUV 350,BGauss,/bgauss-bikes/ruv-350/,4.6,33.0,,,,122.0,143990,1–2 Lakh,,
+BGauss Oowah,BGauss,/bgauss-bikes/oowah/,,,,,,104.0,94990,Under 1 Lakh,,
+Ducati XDiavel V4,Ducati,/ducati-bikes/xdiavel-v4/,,,1158.0,,166.28,,3150960,Above 10 Lakh,,18949.723358191004
+VLF Tennis 1500,VLF,/vlf-bikes/tennis-1500/,3.3,2.0,,,,88.0,100038,1–2 Lakh,,
+Odysse Evoqis,Odysse Electric,/odysse-bikes/evoqis/,3.8,53.0,,,,150.0,118000,1–2 Lakh,,
+Triumph Bonneville Speedmaster,Triumph,/triumph-bikes/bonneville-speedmaster/,,,1200.0,21.7,76.9,263.0,1351600,Above 10 Lakh,0.29239543726235745,17576.072821846552
+Harley-Davidson PAN America 1250 Special,Harley-Davidson,/harleydavidson-bikes/pan-america-1250-special/,,,1252.0,18.0,150.19,258.0,2716000,Above 10 Lakh,0.5821317829457364,18083.760569944738
+Brixton Motorcycles Crossfire 500 XC,Brixton Motorcycles,/brixton-motorcycles-bikes/crossfire-500-xc/,5.0,1.0,486.0,,46.9,195.0,399000,2–5 Lakh,0.2405128205128205,8507.462686567165
+Ducati Multistrada V4,Ducati,/ducati-bikes/multistrada-v4/,,,1158.0,15.0,167.62,243.0,2505968,Above 10 Lakh,0.6897942386831276,14950.292327884501
+Kawasaki Z650RS [2025],Kawasaki,/kawasaki-bikes/z650rs-2025/,4.7,10.0,649.0,,67.31,192.0,768968,5–10 Lakh,0.3505729166666667,11424.275739117516
+Raptee HV T30,Raptee,/raptee-bikes/t30/,2.9,7.0,,,,177.0,239000,2–5 Lakh,,
+Harley-Davidson Heritage Classic,Harley-Davidson,/harleydavidson-bikes/heritage-classic/,,,1868.0,18.0,93.87,330.0,2571000,Above 10 Lakh,0.28445454545454546,27388.942154042823
+Ducati DesertX,Ducati,/ducati-bikes/desertx/,3.7,3.0,937.0,17.8,108.6,223.0,1959200,Above 10 Lakh,0.4869955156950672,18040.515653775325
+Harley-Davidson Street Glide,Harley-Davidson,/harleydavidson-bikes/street-glide/,5.0,2.0,1923.0,16.0,107.2,368.0,4250000,Above 10 Lakh,0.29130434782608694,39645.5223880597
+Triumph Speed Twin 1200 TFC,Triumph,/triumph-bikes/speed-twin-1200-tfc/,2.5,1.0,1200.0,,103.5,216.0,2099000,Above 10 Lakh,0.4791666666666667,20280.193236714975
+Kawasaki KLX230 [2025],Kawasaki,/kawasaki-bikes/klx230-2025/,4.8,16.0,233.0,38.0,18.37,139.0,184010,1–2 Lakh,0.13215827338129496,10016.875340228633
+Joy e-bike Gen Nxt,Joy e-bike,/joyebike-bikes/gen-nxt/,3.2,31.0,,,,85.0,60827,Under 1 Lakh,,
+Kawasaki Versys-X 300 [2025],Kawasaki,/kawasaki-bikes/versys-x-300-2025/,4.0,4.0,296.0,,38.8,179.0,349020,2–5 Lakh,0.21675977653631284,8995.360824742269
+Kawasaki KLX230 S,Kawasaki,/kawasaki-bikes/klx230-s/,,,233.0,36.0,18.37,139.0,219000,2–5 Lakh,0.13215827338129496,11921.611322808927
+Ducati Hypermotard 950,Ducati,/ducati-bikes/hypermotard-950/,4.4,7.0,937.0,19.6,112.6,191.0,1710500,Above 10 Lakh,0.5895287958115183,15190.94138543517
+Kawasaki Ninja 650 [2025],Kawasaki,/kawasaki-bikes/ninja-650-2025/,4.8,5.0,649.0,,67.3,196.0,776967,5–10 Lakh,0.3433673469387755,11544.829123328382
+Lectrix Nduro,Lectrix,/lectrix-bikes/nduro/,4.2,8.0,,,,123.0,94751,Under 1 Lakh,,
+Kawasaki Versys 1100,Kawasaki,/kawasaki-bikes/versys-1100/,2.5,1.0,1099.0,17.8,132.76,257.0,1389000,Above 10 Lakh,0.5165758754863813,10462.48870141609
+KTM 85 SX,KTM,/ktm-bikes/85-sx/,3.0,2.0,84.9,,15.5,75.0,669000,5–10 Lakh,0.20666666666666667,43161.290322580644
+Aprilia Tuareg 660,Aprilia,/aprilia-bikes/tuareg-660/,4.3,2.0,659.0,,79.12,204.0,2014504,Above 10 Lakh,0.387843137254902,25461.375126390292
+Aprilia Tuono 660,Aprilia,/aprilia-bikes/tuono-660/,5.0,1.0,659.0,,93.87,183.0,1863817,Above 10 Lakh,0.5129508196721312,19855.29988281666
+Ducati Scrambler Nightshift,Ducati,/ducati-bikes/scrambler-nightshift/,5.0,3.0,803.0,19.0,71.87,191.0,1346600,Above 10 Lakh,0.37628272251308903,18736.607764018365
+Brixton Motorcycles Cromwell 1200,Brixton Motorcycles,/brixton-motorcycles-bikes/cromwell-1200/,4.7,7.0,1222.0,,81.8,235.0,837863,5–10 Lakh,0.34808510638297874,10242.823960880196
+Indian Scout Classic,Indian,/indian-bikes/scout-classic/,,,1250.0,,106.46,252.0,1498321,Above 10 Lakh,0.4224603174603174,14074.02780387
+PURE EV EcoDryft,PURE EV,/pureev-bikes/ecodryft/,4.4,30.0,,,,101.0,118700,1–2 Lakh,,
+Okinawa Lite,Okinawa,/okinawa-bikes/lite/,4.0,27.0,,,,,69087,Under 1 Lakh,,
+Hop Electric OXO,Hop Electric,/hop-electric-bikes/oxo/,3.5,18.0,,,,140.0,133995,1–2 Lakh,,
+Ducati Multistrada V4 RS,Ducati,/ducati-bikes/multistrada-v4-rs/,4.5,2.0,1103.0,,180.0,260.0,4346700,Above 10 Lakh,0.6923076923076923,24148.333333333332
+PURE EV EPluto 7G,PURE EV,/pureev-bikes/epluto-7g/,2.4,345.0,,,,76.0,86086,Under 1 Lakh,,
+Joy e-bike Wolf,Joy e-bike,/joyebike-bikes/wolf/,2.3,89.0,,,,85.0,61877,Under 1 Lakh,,
+Ducati Scrambler Full Throttle,Ducati,/ducati-bikes/scrambler-full-throttle/,5.0,1.0,803.0,19.0,71.87,185.0,1373982,Above 10 Lakh,0.38848648648648654,19117.601224433
+Triumph Bonneville T120 Black,Triumph,/triumph-bikes/bonneville-t120-black/,,,1200.0,21.0,78.9,236.0,1217000,Above 10 Lakh,0.3343220338983051,15424.588086185044
+Triumph Tiger 900 Desert Edition,Triumph,/triumph-bikes/tiger-900-desert-edition/,,,888.0,21.2,106.5,219.0,1605000,Above 10 Lakh,0.4863013698630137,15070.422535211268
+Indian Chief Bobber Dark Horse,Indian,/indian-bikes/chief-bobber-dark-horse/,5.0,4.0,1890.0,14.0,,315.0,2286943,Above 10 Lakh,,
+Indian Super Chief Limited,Indian,/indian-bikes/super-chief-limited/,5.0,6.0,1890.0,14.0,,335.0,2438944,Above 10 Lakh,,
+KTM 450 SX-F,KTM,/ktm-bikes/450-sx-f/,,,449.9,,62.1,107.0,1025100,Above 10 Lakh,0.5803738317757009,16507.246376811592
+Kawasaki KLX110R L,Kawasaki,/kawasaki-bikes/klx110r-l/,4.7,3.0,112.0,,,76.0,288016,2–5 Lakh,,
+Kinetic Green Zing,Kinetic Green,/kinetic-green-bikes/zing/,3.3,16.0,,,,81.0,71985,Under 1 Lakh,,
+Indian Scout Sixty Classic,Indian,/indian-bikes/scout-sixty-classic/,,,999.0,,86.18,241.0,1434198,Above 10 Lakh,0.35759336099585065,16641.889069389646
+Triumph Tiger 900 Alpine Edition,Triumph,/triumph-bikes/tiger-900-alpine-edition/,,,888.0,21.2,106.5,219.0,1535000,Above 10 Lakh,0.4863013698630137,14413.145539906103
+Kawasaki Ninja 1100SX [2025],Kawasaki,/kawasaki-bikes/ninja-1100sx-2025/,4.9,11.0,1099.0,17.8,134.1,238.0,1441939,Above 10 Lakh,0.5634453781512605,10752.714392244594
+PURE EV Etryst 350,PURE EV,/pureev-bikes/etryst-350/,3.8,27.0,,,,120.0,149999,1–2 Lakh,,
+Okinawa OKHI-90,Okinawa,/okinawa-bikes/okhi-90/,3.8,59.0,,,,,149991,1–2 Lakh,,
+Indian 101 Scout,Indian,/indian-bikes/101-scout/,5.0,1.0,1250.0,,112.54,249.0,1708855,Above 10 Lakh,0.4519678714859438,15184.423316154256
+Kawasaki KLX450R,Kawasaki,/kawasaki-bikes/klx450r/,4.5,2.0,449.0,,,126.0,960960,5–10 Lakh,,
+Odysse Vader,Odysse Electric,/odysse-bikes/vader/,4.9,7.0,,,,128.0,161574,1–2 Lakh,,
+Yo Edge,Yo,/yo-bikes/edge/,4.1,45.0,,,,59.0,67484,Under 1 Lakh,,
+Ducati Multistrada V2,Ducati,/ducati-bikes/multistrada-v2/,,,890.0,17.0,113.98,225.0,1925975,Above 10 Lakh,0.5065777777777778,16897.48201438849
+KTM 50 SX,KTM,/ktm-bikes/50-sx/,3.7,3.0,49.9,,5.3,45.0,475000,2–5 Lakh,0.11777777777777777,89622.64150943396
+Okinawa Praise,Okinawa,/okinawa-bikes/praise/,2.6,392.0,,,,,85223,Under 1 Lakh,,
+Okinawa Ridge Plus,Okinawa,/okinawa-bikes/ridge-plus/,3.1,44.0,,,,,90549,Under 1 Lakh,,
+Okinawa i-Praise,Okinawa,/okinawa-bikes/i-praise/,3.5,58.0,,,,,123155,1–2 Lakh,,
+Evolet Derby,Evolet,/evolet-bikes/derby/,4.4,24.0,,,,76.0,71399,Under 1 Lakh,,
+Yo Drift,Yo,/yo-bikes/drift/,3.6,46.0,,,,59.0,71283,Under 1 Lakh,,
+Gemopai Ryder,Gemopai,/gemopai-bikes/ryder/,3.4,19.0,,,,80.0,70822,Under 1 Lakh,,
+Gemopai Astrid Lite,Gemopai,/gemopai-bikes/astrid-lite/,2.8,48.0,,,,95.0,111195,1–2 Lakh,,
+Joy e-bike Glob,Joy e-bike,/joyebike-bikes/glob/,2.6,19.0,,,,66.0,70000,Under 1 Lakh,,
+PURE EV ETrance Neo,PURE EV,/pureev-bikes/etrance-neo/,3.4,89.0,,,,86.0,84833,Under 1 Lakh,,
+Odysse E2Go,Odysse Electric,/odysse-bikes/e2go/,4.5,6.0,,,,90.0,71100,Under 1 Lakh,,
+Odysse Hawk,Odysse Electric,/odysse-bikes/hawk/,3.0,6.0,,,,128.0,99400,Under 1 Lakh,,
+Odysse Racer,Odysse Electric,/odysse-bikes/racer/,2.5,1.0,,,,107.0,100450,1–2 Lakh,,
+Moto Guzzi V85 TT,Moto Guzzi,/motoguzzi-bikes/v85-tt/,5.0,1.0,853.0,23.8,75.09,230.0,1645802,Above 10 Lakh,0.3264782608695652,21917.725396191236
+Kawasaki KX450,Kawasaki,/kawasaki-bikes/kx450/,5.0,2.0,449.0,,,110.2,991958,5–10 Lakh,,
+Yamaha R15 V4,Yamaha,/yamaha-bikes/r15/,,,155.0,46.0,18.1,141.0,175692,1–2 Lakh,0.12836879432624115,9706.740331491712
+Bounce Infinity E1,Bounce,/bounce-bikes/infinity-e1/,3.5,229.0,,,,94.0,115605,1–2 Lakh,,
+Okinawa Dual 100,Okinawa,/okinawa-bikes/dual-100/,2.5,6.0,,,,,119085,1–2 Lakh,,
+OPG Mobility Faast F4,OPG Mobility,/opg-mobility-bikes/faast/,3.8,23.0,,,,,111996,1–2 Lakh,,
+OPG Mobility Freedum,OPG Mobility,/opg-mobility-bikes/freedum/,2.5,8.0,,,,,69999,Under 1 Lakh,,
+Hop Electric LEO,Hop Electric,/hop-electric-bikes/leo/,3.0,10.0,,,,80.0,84360,Under 1 Lakh,,
+iVOOMi S1,iVOOMi,/ivoomi-bikes/s1/,4.4,15.0,,,,84.0,79999,Under 1 Lakh,,
+iVOOMi Jeet X,iVOOMi,/ivoomi-bikes/jeet-x/,3.2,10.0,,,,94.0,84999,Under 1 Lakh,,
+OPG Mobility Faast F2B,OPG Mobility,/opg-mobility-bikes/faast-f2b/,3.3,7.0,,,,,91996,Under 1 Lakh,,
+Okinawa Ridge 100,Okinawa,/okinawa-bikes/ridge-100/,5.0,7.0,,,,,115311,1–2 Lakh,,
+Joy e-bike Mihos,Joy e-bike,/joyebike-bikes/mihos/,3.7,28.0,,,,110.0,112997,1–2 Lakh,,
+Odysse Trot,Odysse Electric,/odysse-bikes/trot/,,,,,,110.0,99999,Under 1 Lakh,,
+OPG Mobility Faast F2F,OPG Mobility,/opg-mobility-bikes/faast-f2f/,,,,,,,81996,Under 1 Lakh,,
+Gemopai Ryder SuperMax,Gemopai,/gemopai-bikes/ryder-supermax/,4.3,6.0,,,,80.0,79999,Under 1 Lakh,,
+Kawasaki KLX230RS [2023-2025],Kawasaki,/kawasaki-bikes/klx230rs-2023-2025/,5.0,3.0,233.0,,19.57,115.0,481026,2–5 Lakh,0.17017391304347826,24579.764946346448
+Kawasaki KX112,Kawasaki,/kawasaki-bikes/kx112/,4.5,2.0,112.0,,,77.0,450025,2–5 Lakh,,
+Kawasaki KLX 140R F,Kawasaki,/kawasaki-bikes/klx-140r-f/,2.5,1.0,144.0,,11.1,99.0,379021,2–5 Lakh,0.11212121212121212,34146.036036036036
+Kawasaki KX 85,Kawasaki,/kawasaki-bikes/kx-85/,5.0,3.0,84.0,,,74.6,388021,2–5 Lakh,,
+Lectrix LXS 3.0,Lectrix,/lectrix-bikes/lxs-30/,4.7,3.0,,,,134.0,91996,Under 1 Lakh,,
+Kinetic Green Zulu,Kinetic Green,/kinetic-green-bikes/zulu/,2.0,2.0,,,,93.0,84990,Under 1 Lakh,,
+Lectrix LXS 2.0,Lectrix,/lectrix-bikes/lxs-2/,,,,,,100.0,84993,Under 1 Lakh,,
+Ducati Hypermotard 698 Mono,Ducati,/ducati-bikes/hypermotard-698-mono/,4.0,4.0,659.0,20.8,76.43,159.0,1870300,Above 10 Lakh,0.4806918238993711,24470.75755593353
+Kawasaki Versys 1100 [2025],Kawasaki,/kawasaki-bikes/versys-1100-2025/,4.5,2.0,1099.0,17.8,132.76,257.0,1378942,Above 10 Lakh,0.5165758754863813,10386.727930099429
+Quantum Energy Plasma,Quantum Energy,/quantum-energy-bikes/plasma/,,,,,,101.0,89998,Under 1 Lakh,,
+Quantum Energy Bziness,Quantum Energy,/quantum-energy-bikes/bziness/,5.0,1.0,,,,104.0,95009,Under 1 Lakh,,
+KTM 250 SX-F,KTM,/ktm-bikes/250-sx-f/,,,249.9,,46.1,104.0,958000,5–10 Lakh,0.4432692307692308,20780.911062906725
+KTM 350 EXC-F,KTM,/ktm-bikes/350-exc-f/,4.5,2.0,349.7,,44.3,103.2,1295800,Above 10 Lakh,0.42926356589147285,29250.564334085782
+Brixton Motorcycles Cromwell 1200 X,Brixton Motorcycles,/brixton-motorcycles-bikes/cromwell-1200-x/,,,1222.0,,81.8,235.0,972519,5–10 Lakh,0.34808510638297874,11888.98533007335
+KTM 65 SX,KTM,/ktm-bikes/65-sx/,,,64.9,,11.2,62.0,546500,5–10 Lakh,0.18064516129032257,48794.64285714286
+Numeros Diplos,Numeros,/numeros-bikes/diplos/,,,,,,140.0,134999,1–2 Lakh,,
+Indian Sport Scout Sixty,Indian,/indian-bikes/sport-scout-sixty/,,,999.0,,86.18,241.0,1419237,Above 10 Lakh,0.35759336099585065,16468.28730563936
+Indian Sport Scout,Indian,/indian-bikes/sport-scout/,5.0,1.0,1250.0,,106.46,248.0,1505802,Above 10 Lakh,0.4292741935483871,14144.298328010522
+Indian Super Scout,Indian,/indian-bikes/super-scout/,5.0,2.0,1250.0,,106.46,268.0,1725954,Above 10 Lakh,0.3972388059701492,16212.229945519444
+Numeros n-First,Numeros,/numeros-bikes/n-first/,,,,,,117.0,114999,1–2 Lakh,,
+Ducati Desmo450 MX,Ducati,/ducati-bikes/desmo450-mx/,,,449.6,,62.62,,1723600,Above 10 Lakh,,27524.752475247526
+Ducati Multistrada V4 Rally,Ducati,/ducati-bikes/multistrada-v4-rally/,,,1158.0,15.0,167.62,238.0,3240000,Above 10 Lakh,0.7042857142857143,19329.43562820666
+Kawasaki Vulcan S [2027],Kawasaki,/kawasaki-bikes/vulcan-s-2027/,,,649.0,,59.94,,823000,5–10 Lakh,,13730.397063730397
