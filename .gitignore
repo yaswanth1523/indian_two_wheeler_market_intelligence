@@ -1,1 +1,33 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
 
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python distribution files
+build/
+dist/
+*.egg-info/
+
+# Local environment files
+.env
+
+# Temporary files
+*.tmp
+*.temp
