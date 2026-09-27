@@ -5,4 +5,4 @@ seaborn
 requests
 beautifulsoup4
 lxml
-jupyter
+jupyter notebook
